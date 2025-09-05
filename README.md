@@ -8,7 +8,10 @@
 
 Распакуйте архив на компьютер
 
-Распакуйте файл Dron_Project_Data.zip в корневую папку.
+Распакуйте файлы 
+Dron_Project_Data.zip
+UnituPlayerdll.zip
+в корневую папку.
 
 Зпустить Drone_Project.exe
 
