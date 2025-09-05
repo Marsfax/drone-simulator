@@ -26,4 +26,4 @@ UnituPlayerdll.zip
 - P/ESC - пауза
 - R - рестарт
 
-Собрано на Unity 
+Собрано на Unity
